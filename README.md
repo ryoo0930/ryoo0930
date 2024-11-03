@@ -22,12 +22,12 @@
   <div align="center">
     <img
       src="https://github-readme-stats.vercel.app/api?username=ryoo0930&count_private=true&include_all_commits=false&disable_animations=false&show_icons=true&theme=transparent&hide_border=true&icon_color=c4b9ad&text_color=FFFFFF&title_color=c4b9ad&bg_color=6c3c0c&border_radius=10"
-      height="220"
+      height="210"
       alt="ryoo0930's GitHub Stats"
     />
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryoo0930&langs_count=10&layout=compact&disable_animations=false&theme=transparent&hide_border=true&card_width=150&icon_color=c4b9ad&text_color=FFFFFF&title_color=c4b9ad&bg_color=6c3c0c&border_radius=10"
-      height="220"
+      height="210"
       alt="ryoo0930's Most Used Languages"
     />
   </div>

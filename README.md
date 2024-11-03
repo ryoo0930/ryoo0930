@@ -20,7 +20,7 @@
 
 <div align ="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ryoo0930)](https://solved.ac/ryoo0930/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=ryoo0930)](https://solved.ac/ryoo0930/)
 </div>
 
 

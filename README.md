@@ -37,7 +37,7 @@
   <!-- Stats 2st line -->
   <div align="center">
     <img
-      src="https://streak-stats.demolab.com?user=ryoo0930&hide_border=true&border_radius=10&card_width=405&card_height=200&background=6c3c0c&ring=957657&fire=800000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=ryoo0930&hide_border=true&border_radius=10&card_width=405&card_height=200&background=6c3c0c&ring=957657&fire=800000&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF56&stroke=FFFFFF56"
       alt="ryoo0930's GitHub Streak"
     />
     <img

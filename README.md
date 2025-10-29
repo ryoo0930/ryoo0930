@@ -5,7 +5,7 @@
   />
 
   <img
-    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&color=6c3c0c&center=true&vCenter=true&random=false&width=800&height=75&repeat=false&lines=Ryu+Jae+Shin's+Github"
+    src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&color=6c3c0c&center=true&vCenter=true&random=false&width=800&height=75&repeat=false&lines=Assva's+Github"
     alt="Ryu Jae Shin's Github"
   />
   

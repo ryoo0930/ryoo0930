@@ -11,7 +11,7 @@
 </a>
 
 [![Portfolio](https://img.shields.io/badge/🔗_ORCID-RYUJAESHIN-a6ce39?style=for-the-badge&labelColor=060C1A)](https://orcid.org/0009-0006-3969-0653)
-[![Portfolio](https://img.shields.io/badge/🔗_LINKEDIN-RYUJAESIN-0a66c2?style=for-the-badge&labelColor=060C1A)](https://www.linkedin.com/in/jaeshin-ryu-2766a7369/)
+[![Portfolio](https://img.shields.io/badge/🔗_LINKEDIN-RYUJAESHIN-0a66c2?style=for-the-badge&labelColor=060C1A)](https://www.linkedin.com/in/jaeshin-ryu-2766a7369/)
 [![Portfolio](https://img.shields.io/badge/🔗_NAVERBLOG-RYU0930-15cf63?style=for-the-badge&labelColor=060C1A)](https://blog.naver.com/ryu_0930)
 
 </div>
